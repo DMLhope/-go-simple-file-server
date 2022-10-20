@@ -1,4 +1,4 @@
-# -go-simple-file-server
+# go-simple-file-server
 用go实现的简单的文件服务器
 ```shell
 $ go run main.go -h                                                          
